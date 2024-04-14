@@ -1,1 +1,1 @@
-# F23-StatisticalTechniques
+# StatisticalTechniques
